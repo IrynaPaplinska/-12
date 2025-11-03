@@ -18,4 +18,7 @@ int main() {
         cout << line << endl;
     }
     fin.close();
+    ofstream fout2("students.txt", ios::app); // режим дописування
+    fout2 << "Петренко Олена,87" << endl;
+    fout2.close();
 }
