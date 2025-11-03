@@ -107,15 +107,8 @@
 | I | F | S | T | R | E | A | M | D |
 | G | E | T | L | I | N | E | M | N |
 
-ofstream
+<img width="790" height="636" alt="image" src="https://github.com/user-attachments/assets/db6663de-dc64-4541-a85a-86a8c37feaa5" />
 
-ifstream
-
-fstream
-
-getline
-
-app
 
 ---
 
